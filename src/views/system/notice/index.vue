@@ -4,7 +4,7 @@
          <el-form-item label="公告标题" prop="noticeTitle">
             <el-input
                v-model="queryParams.noticeTitle"
-               placeholder="请输入公告标题"
+               placeholder="请输入公告标题321"
                clearable
                style="width: 200px"
                @keyup.enter="handleQuery"
